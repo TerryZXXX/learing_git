@@ -8,3 +8,6 @@
 ok 我现在提交了 两次我的git commit到 origin 的分支上了 我现在现在本地进行merge 然后云端的merge
 
 好的现在我在main的分支已经把我的fork的分支merge了 现在我现在要提交到云端上
+
+
+回滚提交
